@@ -1,0 +1,18 @@
+body{
+	background:black; 
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font: bold;
+	font-family: sans-serif;
+}
+#home{
+	background-color : black;
+	width: 50px;
+	height: 20px;
+	color: white;
+	font-size: 8pt;
+	text-align: center;
+}
